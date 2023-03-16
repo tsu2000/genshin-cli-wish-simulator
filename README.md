@@ -1,11 +1,13 @@
 # genshin-cli-wish-simulator
 A simple command-line simulation of 4★ and 5★ drops from the RPG Genshin Impact.
 
-![image](https://user-images.githubusercontent.com/106811131/225665749-ca54424a-90e5-4b38-9792-6d6f92d80142.png)
+### User Interface
+
+![image](https://user-images.githubusercontent.com/106811131/225669977-36773424-7ac4-4784-a9af-16e7644346d6.png)
 
 ### Sample Result
 
-![image](https://user-images.githubusercontent.com/106811131/225666389-8e7a28c0-dfe0-4f4d-8b75-42a0c0e8c9c2.png)
+![image](https://user-images.githubusercontent.com/106811131/225670192-d5a88ee8-a1f9-4fda-89c9-c4f979f5eaa0.png)
 
 ### Git Installation
 
@@ -18,6 +20,6 @@ sudo make install
 ```
 
 ### Usage
-- Enter user inputs according to the prompts.
+Enter user inputs according to the prompts displayed in the command line. Let me know if there any bugs or issues with the source code, or if you want to suggest code improvements or optimisations.
 
 
