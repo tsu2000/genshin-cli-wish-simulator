@@ -11,11 +11,9 @@ A simple command-line simulation of 4★ and 5★ drops from the RPG Genshin Imp
 
 ### Git Installation
 
-If on Linux, install libncurses-dev as dependency.
-
 ```bash
 git clone 'https://github.com/tsu2000/genshin-cli-wish-simulator' && cd genshin-cli-wish-simulator
-make  # if on linux, run 'make ubuntucompile' instead for proper characters
+make
 sudo make install
 ```
 
